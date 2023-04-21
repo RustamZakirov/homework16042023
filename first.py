@@ -11,5 +11,5 @@ while a > 1:
         list.append(count)
         a = a/count
     else:
-        simple += 1
+        count += 1
 print(f'{b} - > {list}')
